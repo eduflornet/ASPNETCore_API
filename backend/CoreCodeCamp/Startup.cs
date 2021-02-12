@@ -35,7 +35,8 @@ namespace CoreCodeCamp
             }
 
             app.UseRouting();
-
+            app.UseDeveloperExceptionPage();
+            
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
