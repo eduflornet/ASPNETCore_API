@@ -140,6 +140,7 @@ namespace CoreCodeCamp.Controllers
 
             return BadRequest();
         }
+
         [HttpPut("{moniker}")]
         public async Task<ActionResult<CampModel>> Put(string moniker, CampModel model)
         {
@@ -162,5 +163,6 @@ namespace CoreCodeCamp.Controllers
             }
             return BadRequest();
         }
+
     }
 }
