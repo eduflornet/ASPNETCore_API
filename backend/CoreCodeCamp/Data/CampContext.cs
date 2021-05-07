@@ -1,4 +1,5 @@
 ﻿using System;
+using CoreCodeCamp.Data.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 

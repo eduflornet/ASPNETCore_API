@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using CoreCodeCamp.Data.Entities;
 using CoreCodeCamp.Models;
 
 namespace CoreCodeCamp.Data

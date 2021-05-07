@@ -1,4 +1,4 @@
-﻿namespace CoreCodeCamp.Data
+﻿namespace CoreCodeCamp.Data.Entities
 {
   public class Speaker
   {

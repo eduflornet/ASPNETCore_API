@@ -1,8 +1,7 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 
-namespace CoreCodeCamp.Data
+namespace CoreCodeCamp.Data.Entities
 {
   public class Camp
   {
